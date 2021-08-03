@@ -20,8 +20,7 @@ Creating a Dockerfile that will build very small docker image of a simple golang
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Creating a project on docker-compose and convert to yaml kubernetes](https://github.com/ErikLVicente/project-docker-compose-to-kubernetes)**
 
-We will create a docker-compose for development environment and after we will convert for yaml files for create a pods and services on kubernetes for production environment
-
+We will create a docker-compose for development environment and after we will convert for yaml files for create a pods and services on kubernetes for production environment. We will create a docker-compose for development environment and after we will convert for yaml files for create a pods and services on kubernetes for production environment
 #
 
 <br />
