@@ -11,13 +11,13 @@ This Portfolio is a compilation of all the DevOps, GitOps, IaC and SRE projects 
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Creating a Dockerfile with multistage-building](https://github.com/ErikLVicente/docker-image-golang-very-small)**
+<img align="left" width="250" height="150" src="https://github.com/eriklvicente/Portfolio/img/docker-multistage-building.png"> **[Creating a Dockerfile with multistage-building](https://github.com/ErikLVicente/docker-image-golang-very-small)**
 
 Creating a Dockerfile that will build very small docker image of a simple golang page using multistage building. Creating a Dockerfile that will build very small docker image of a simple golang page using multistage building.
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Creating a project on docker-compose and convert to yaml kubernetes](https://github.com/ErikLVicente/project-docker-compose-to-kubernetes)**
+<img align="left" width="250" height="150" src="https://github.com/eriklvicente/Portfolio/img/docker-compose-to-k8s.png"> **[Creating a project on docker-compose and convert to yaml kubernetes](https://github.com/ErikLVicente/project-docker-compose-to-kubernetes)**
 
 We will create a docker-compose for development environment and after we will convert for yaml files for create a pods and services on kubernetes for production environment. 
 #
