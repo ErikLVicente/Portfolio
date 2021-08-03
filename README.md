@@ -13,7 +13,7 @@ This Portfolio is a compilation of all the DevOps, GitOps, IaC and SRE projects 
 
 <img align="left" width="250" height="150" src="https://github.com/eriklvicente/Portfolio/blob/main/img/docker.png"> **[Creating a Dockerfile with multistage-building](https://github.com/ErikLVicente/docker-image-golang-very-small)**
 
-Creating a Dockerfile that will build very small docker image of a simple golang page using multistage building. Creating a Dockerfile that will build very small docker image of a simple golang page using multistage building.
+Creating a Dockerfile that will build very small docker image of a simple golang page using multistage building. 
 
 #
 
