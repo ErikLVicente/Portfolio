@@ -20,11 +20,13 @@ Creating a Dockerfile that will build very small docker image of a simple golang
 <img align="left" width="250" height="150" src="https://github.com/eriklvicente/Portfolio/blob/main/img/docker-k8s.png"> **[Creating a project on docker-compose and convert to yaml kubernetes](https://github.com/ErikLVicente/project-docker-compose-to-kubernetes)**
 
 We will create a docker-compose for development environment and after we will convert for yaml files for create a pods and services on kubernetes for production environment. 
+
 #
 
 <img align="left" width="250" height="150" src="https://github.com/eriklvicente/Portfolio/blob/main/img/namespace-k8s.png"> **[Creating a project on kubenetes using namespaces for isolate application and data base ](https://github.com/ErikLVicente/rotten-potatoes)**
 
 In this demo we will create a project on kubenetes using namespaces for isolate application and data base. Namespaces are a way to organize clusters into virtual sub-clusters — they can be helpful when different teams or projects share a Kubernetes cluster. Any number of namespaces are supported within a cluster, each logically separated from others but with the ability to communicate with each other. 
+
 #
 
 
