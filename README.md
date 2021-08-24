@@ -22,7 +22,7 @@ Creating a Dockerfile that will build very small docker image of a simple golang
 We will create a docker-compose for development environment and after we will convert for yaml files for create a pods and services on kubernetes for production environment. 
 
 #
-<br />
+<br /><br />
 
 <img align="left" width="250" height="150" src="https://github.com/eriklvicente/Portfolio/blob/main/img/namespace-k8s.png"> **[Creating a project on kubenetes using namespaces for isolate application and data base ](https://github.com/ErikLVicente/rotten-potatoes)**
 
