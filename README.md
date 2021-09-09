@@ -11,6 +11,12 @@ This Portfolio is a compilation of all the DevOps, GitOps, IaC and SRE projects 
 
 ## Projects
 
+<img align="left" width="250" height="150" src="https://github.com/eriklvicente/Portfolio/blob/main/img/ci-cd-jenkins.png"> **[Creating a CI CD pepiline with Jenkins and Kubenetes](https://github.com/ErikLVicente/ci-cd-jenkins-and-kubernetes)**
+
+Creating a CI CD pepiline with Jenkins and Kubenetes. Jenkins – an open source automation server which enables developers around the world to reliably build, test, and deploy their software.
+
+#
+
 <img align="left" width="250" height="150" src="https://github.com/eriklvicente/Portfolio/blob/main/img/docker.png"> **[Creating a Dockerfile with multistage-building](https://github.com/ErikLVicente/docker-image-golang-very-small)**
 
 Creating a Dockerfile that will build very small docker image of a simple golang page using multistage building. One of the most challenging things about building images is keeping the image size down. Each instruction in the Dockerfile adds a layer to the image, and you need to remember to clean up any artifacts you don’t need before moving on to the next layer. To write a really efficient Dockerfile, you have traditionally needed to employ shell tricks and other logic to keep the layers as small as possible and to ensure that each layer has the artifacts it needs from the previous layer and nothing else.
