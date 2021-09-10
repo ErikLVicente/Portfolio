@@ -39,9 +39,6 @@ In this demo we will create a project on kubenetes using namespaces for isolate 
 #
 
 
-
-<br />
-
 ## Skills
 
 - DevOps | SRE | MLOps | AWS | IaaS | PaaS | SaaS | IaC | Docker | S3 | VPC | EC2 | RDS | VPN | Storage Gateway | Kubernetes | Route53 | Lambda | API Gateway | Linux | Networking | TCP/IP | Infrastructure | Storage | DevOps | Automation | Git/Github/Gitlab | Terraform | Jenkins | PowerShell | Python | Bash | Observability | Grafana | Virtualization | Windows Server | Active Directory | Ansible | Rancher | GCP | Azure | Cloud
