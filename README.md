@@ -11,7 +11,7 @@ This Portfolio is a compilation of all the DevOps, GitOps, IaC and SRE projects 
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/eriklvicente/Portfolio/blob/main/img/gitops-250.png"> **[A little GitOps Project using Github, CodeAnyWhere and Heroku.](https://github.com/ErikLVicente/gitops-on-github-codeanywhere-heroku)**
+<img align="left" width="250" height="150" src="https://github.com/eriklvicente/Portfolio/blob/main/img/gitops-250.png"> **[A little GitOps Project using Github Actions and deploying on Heroku.](https://github.com/ErikLVicente/gitops-on-github-codeanywhere-heroku)**
 
 Creating a CI CD pepiline with Github Actions and Heroku. GitOps is an operational framework that takes DevOps best practices used for application development such as version control, collaboration, compliance, and CI/CD, and applies them to infrastructure automation..
 
